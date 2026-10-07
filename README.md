@@ -32,7 +32,7 @@ This project took me approximately two hours today including project demo time. 
 
 ### What I did in this step
 
-In this step, we will laucnh two EC2 instances because wa need to boost Nextwork's computing power - we're expecting more users and traffic into our websites over the summer break! 
+In this step, I will laucnh two EC2 instances because wa need to boost Nextwork's computing power - we're expecting more users and traffic into our websites over the summer break! 
 
 ### Understanding tags
 
